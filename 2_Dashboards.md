@@ -133,7 +133,7 @@ up
 
 **Réponse — Quel est le pourcentage de RAM disponible ?**
 
-    (votre réponse ici)
+    52.3%
 
 
 ### Panel 4 — Espace disque utilisé
