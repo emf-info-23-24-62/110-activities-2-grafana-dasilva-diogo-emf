@@ -115,7 +115,7 @@ Vous devez voir une ligne confirmant que le SMTP est initialisé sans erreur.
 
 **Réponse — Quelle ligne de log confirme que le SMTP est bien chargé ?**
 
-    (votre réponse ici)
+    Config overridden from Environment variable
 
 ---
 
