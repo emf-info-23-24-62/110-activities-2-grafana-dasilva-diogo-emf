@@ -111,7 +111,7 @@ sum by(route) (rate(http_requests_total[$interval]))
 
 **Réponse — Que se passe-t-il si vous choisissez un intervalle de 1m vs 30m ?**
 
-    (votre réponse ici)
+    Avec 1m la courbe est plus réactive et détaillée, tandis qu’avec 30m elle est plus lissée mais moins précise sur les variations rapides.
 
 
 ## Annotations
