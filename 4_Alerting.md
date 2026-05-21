@@ -164,7 +164,7 @@ Cliquez sur **Test** puis **Save contact point**.
 
 **Réponse — Le message de test est-il bien apparu dans le channel Discord ?**
 
-    (votre réponse ici)
+    oui
 
 ---
 
