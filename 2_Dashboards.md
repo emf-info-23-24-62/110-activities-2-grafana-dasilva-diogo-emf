@@ -188,7 +188,7 @@ sum(rate(http_requests_total{status_code=~"5.."}[1m]))
 
 **Réponse — Y a-t-il des erreurs ? Sur quelle route ?**
 
-    (votre réponse ici)
+    non
 
 ### Panel 7 — Latence P95 des requêtes
 
