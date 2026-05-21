@@ -241,7 +241,7 @@ Créez une nouvelle règle d'alerte avec les paramètres suivants.
 
 **Réponse — Quelle requête PromQL complète avez-vous utilisée ?**
 
-    (votre requête ici)
+    100 - (avg by(instance) (rate(node_cpu_seconds_total{mode="idle"}[5m])) * 100)
 
 ---
 
