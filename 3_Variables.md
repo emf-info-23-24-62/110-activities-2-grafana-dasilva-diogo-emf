@@ -88,7 +88,7 @@ Créez une deuxième variable pour filtrer par job Prometheus.
 
 **Réponse — Quels jobs apparaissent dans le menu ?**
 
-    (votre réponse ici)
+    node-app, node-exporter et promotheus
 
 
 ### 5. Variable d'intervalle pour le rate()
