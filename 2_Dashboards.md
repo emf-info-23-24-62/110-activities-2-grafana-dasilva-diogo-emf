@@ -223,7 +223,7 @@ app_active_users
 
 **Réponse — Comment évolue cette valeur dans le temps ?**
 
-    (votre réponse ici)
+    elle évolue en fonction de l'activité des utilisateurs
 
 ## Sauvegarder le dashboard
 
