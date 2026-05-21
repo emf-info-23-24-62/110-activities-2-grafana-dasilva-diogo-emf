@@ -72,7 +72,7 @@ Sauvegardez le panel.
 
 **Réponse — Listez les instances disponibles dans votre menu :**
 
-    (votre réponse ici)
+    92.39.63.52:9100, 92.39.63.52:3000 et prometheus:9090
 
 
 ### 4. Ajouter une variable `job`
