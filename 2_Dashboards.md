@@ -205,7 +205,7 @@ histogram_quantile(0.95, sum by(le, route) (rate(http_request_duration_seconds_b
 
 **Réponse — Quelle route a la latence la plus élevée ? Pourquoi ?**
 
-    (votre réponse ici)
+    /metrics, c'est la seul
 
 
 ### Panel 8 — Utilisateurs actifs
