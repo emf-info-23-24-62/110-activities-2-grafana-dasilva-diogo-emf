@@ -151,7 +151,7 @@ up
 
 **Réponse — Quel est le pourcentage d'espace disque utilisé ?**
 
-    (votre réponse ici)
+    30.04%
 
 
 ### Panel 5 — Requêtes HTTP par seconde (app NodeJS)
@@ -169,7 +169,7 @@ sum by(route) (rate(http_requests_total[1m]))
 
 **Réponse — Quelles routes génèrent le plus de trafic ?**
 
-    30.04%
+    (votre réponse ici)
 
 
 ### Panel 6 — Taux d'erreurs HTTP
