@@ -71,7 +71,7 @@ Un mot de passe d'application est un code à 16 caractères généré par Google
 
 **Réponse — Avez-vous bien obtenu un mot de passe d'application à 16 caractères ?**
 
-    (votre réponse ici)
+    oui
 
 ---
 
