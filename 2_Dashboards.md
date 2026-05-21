@@ -95,7 +95,7 @@ up
 
 **Réponse — Quel résultat observez-vous ?**
 
-    (votre réponse ici)
+    On vois que toutes les instances sont up donc en vert
 
 
 ### Panel 2 — Utilisation CPU
