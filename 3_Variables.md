@@ -134,7 +134,7 @@ Les **annotations** permettent d'afficher des événements ponctuels sur vos gra
 
 **Réponse — A quoi cela peut-il servir en production ?**
 
-    (votre réponse ici)
+    Ça sert en production à visualiser des événements importants (déploiements, incidents, redémarrages) directement sur les graphiques
 
 
 ## Résultat
