@@ -113,7 +113,7 @@ up
 
 **Réponse — Quel est le pourcentage de CPU moyen observé ?**
 
-    (votre réponse ici)
+    Environ 1 %
 
 
 ### Panel 3 — Mémoire disponible
