@@ -169,7 +169,7 @@ sum by(route) (rate(http_requests_total[1m]))
 
 **Réponse — Quelles routes génèrent le plus de trafic ?**
 
-    (votre réponse ici)
+    /metrics
 
 
 ### Panel 6 — Taux d'erreurs HTTP
