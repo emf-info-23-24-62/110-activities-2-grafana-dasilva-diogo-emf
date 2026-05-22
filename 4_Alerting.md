@@ -302,7 +302,7 @@ sudo systemctl start node_exporter
 
 **Réponse — Quelle est la différence entre une alerte Prometheus (Alertmanager) et une alerte Grafana Alerting ?**
 
-    (votre réponse ici)
+    Une alerte Prometheus utilise des règles définies dans Prometheus puis envoyées à Alertmanager pour gérer les notifications, alors qu’une alerte Grafana Alerting est créée directement dans Grafana avec une interface graphique et peut envoyer les notifications sans passer par Prometheus.
 
 ---
 
