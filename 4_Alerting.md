@@ -290,7 +290,7 @@ Un email de notification doit arriver dans votre boîte mail.
 
 **Réponse — Combien de temps s'écoule entre l'arrêt de Node Exporter et la réception de l'email ?**
 
-    (votre réponse ici)
+    environ 2 minutes
 
 ### Relancer l'instance
 
