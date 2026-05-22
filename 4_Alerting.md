@@ -326,7 +326,7 @@ Cliquez sur **Submit**.
 
 **Réponse — Les alertes sont-elles toujours évaluées pendant un Silence ?**
 
-    (votre réponse ici)
+    oui
 
 ---
 
