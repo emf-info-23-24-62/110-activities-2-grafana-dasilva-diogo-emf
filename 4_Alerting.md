@@ -251,11 +251,11 @@ Créez une règle qui déclenche une alerte lorsque la RAM disponible passe sous
 
 **Réponse — Quelle requête PromQL avez-vous utilisée ?**
 
-    (votre requête ici)
+    (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes) * 100
 
 **Réponse — Quel seuil (threshold) avez-vous défini ?**
 
-    (votre réponse ici)
+    is below 15
 
 ---
 
