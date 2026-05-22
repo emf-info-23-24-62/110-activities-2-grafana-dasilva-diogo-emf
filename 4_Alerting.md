@@ -265,7 +265,7 @@ Créez une règle qui déclenche une alerte lorsque le taux d'erreurs 5xx de l'a
 
 **Réponse — Quelle requête PromQL avez-vous utilisée ?**
 
-    (votre requête ici)
+    sum by(route) (rate(http_requests_total[1m]))
 
 ---
 
